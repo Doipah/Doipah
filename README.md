@@ -103,7 +103,7 @@ A web-based exercise library containing more than 1,300 exercises with instructi
 
 ---
 
-## 🎬 YouTube Channel — เล่าให้เห็น คัมภีร์
+## 🎬 YouTube Channel — เล่าให้เห็น X พระคัมภีร์
 
 A Thai-language channel that explains Bible stories through their historical context.
 
