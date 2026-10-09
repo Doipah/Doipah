@@ -101,6 +101,18 @@ A web-based exercise library containing more than 1,300 exercises with instructi
 
 <div align="center">
 
+---
+
+## 🎬 YouTube Channel — เล่าให้เห็น คัมภีร์
+
+A Thai-language channel that explains Bible stories through their historical context.
+
+- 🎞️ Videos are edited with **HyperFrames**, composing scenes and motion graphics as code
+- 🤖 Built with **Claude** as an AI partner for scripting, scene building and the editing workflow
+- 🧪 A side project where I explore AI-assisted video production
+
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99-%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C)
+
 ## 🤝 Let's Build Something Great
 
 I’m interested in building useful products, exploring new technology,  
